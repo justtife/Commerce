@@ -1,0 +1,9 @@
+[info] 23-01-17 15:51:38 Teepha F&F Logger: {"message":"Server running on port 3000","metadata":{}}
+[warn] 23-01-17 15:52:07 Teepha F&F Logger: {"message":"Server running on port 3000","metadata":{}}
+[info] 23-01-17 15:59:07 Teepha F&F Logger: {"message":"MongoDB Connected: ac-xfmv0bi-shard-00-01.oapakcc.mongodb.net","metadata":{}}
+[info] 23-01-17 15:59:44 Teepha F&F Logger: {"message":"MongoDB Connected: ac-xfmv0bi-shard-00-02.oapakcc.mongodb.net","metadata":{}}
+[info] 23-01-17 15:59:44 Teepha F&F Logger: {"message":"Server running on port 3000","metadata":{}}
+[info] 23-01-17 16:00:22 Teepha F&F Logger: {"message":"MongoDB Connected: ac-xfmv0bi-shard-00-01.oapakcc.mongodb.net","metadata":{}}
+[info] 23-01-17 16:00:22 Teepha F&F Logger: {"message":"Server running on port 3000","metadata":{}}
+[info] 23-01-17 16:00:28 Teepha F&F Logger: {"message":"MongoDB Connected: ac-xfmv0bi-shard-00-01.oapakcc.mongodb.net","metadata":{}}
+[info] 23-01-17 16:00:28 Teepha F&F Logger: {"message":"Server running on port 3000","metadata":{}}
