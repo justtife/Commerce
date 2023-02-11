@@ -1,9 +1,7 @@
-import { CustomError } from "./custom";
-import { StatusCodes } from "http-status-codes";
+import CustomError from "./custom";
 export class BadRequestError extends CustomError {
-  statusCode: number;
-  constructor(message: string) {
-    super(message);
-    this.statusCode = StatusCodes.BAD_REQUEST;
+  constructor(message: string, statusCode: number = 400) {
+    super(message, statusCode);
+    this.message = message;
   }
 }
